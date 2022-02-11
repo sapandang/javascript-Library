@@ -44,3 +44,6 @@
 
 * x6-flow
 > https://github.com/lourain/x6-flow
+
+* x6 jobs
+> https://github.com/antvis/x6
