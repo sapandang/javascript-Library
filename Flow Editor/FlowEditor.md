@@ -16,3 +16,7 @@
 * Flowchart<br>
 `vuejs`
 > https://github.com/joyceworks/flowchart-vue
+
+* vue-simple-flowchart
+<br> `vuejs`
+> https://github.com/Jeffreyrn/vue-simple-flowchart
