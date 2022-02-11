@@ -32,3 +32,6 @@
 
 * Flowy
 > https://github.com/alyssaxuu/flowy
+
+* Vue Flow
+> https://github.com/bcakmakoglu/vue-flow
