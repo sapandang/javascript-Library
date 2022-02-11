@@ -21,3 +21,11 @@
 <br> `vuejs`
 > https://github.com/Jeffreyrn/vue-simple-flowchart
 > https://www.vuescript.com/simple-flowchart-editor-for-vue-js/
+
+* Flowy Vue
+<br> `vuejs`
+> https://github.com/remcoplasmeyer/flowy-vue
+
+* vue-super-flow
+* <br> `vuejs`
+> https://github.com/caohuatao/vue-super-flow
