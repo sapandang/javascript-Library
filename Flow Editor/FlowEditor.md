@@ -20,3 +20,4 @@
 * vue-simple-flowchart
 <br> `vuejs`
 > https://github.com/Jeffreyrn/vue-simple-flowchart
+> https://www.vuescript.com/simple-flowchart-editor-for-vue-js/
