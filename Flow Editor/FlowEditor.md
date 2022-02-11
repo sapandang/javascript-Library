@@ -35,3 +35,6 @@
 
 * Vue Flow
 > https://github.com/bcakmakoglu/vue-flow
+
+* vue-super-flow
+> https://github.com/caohuatao/vue-super-flow
