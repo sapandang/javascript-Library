@@ -29,3 +29,6 @@
 * vue-super-flow
 * <br> `vuejs`
 > https://github.com/caohuatao/vue-super-flow
+
+* Flowy
+> https://github.com/alyssaxuu/flowy
