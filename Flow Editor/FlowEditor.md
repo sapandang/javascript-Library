@@ -41,3 +41,6 @@
 
 * Vue g6 editor
 > https://github.com/caoyu48/vue-g6-editor
+
+* x6-flow
+> https://github.com/lourain/x6-flow
