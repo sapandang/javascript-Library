@@ -38,3 +38,6 @@
 
 * vue-super-flow
 > https://github.com/caohuatao/vue-super-flow
+
+* Vue g6 editor
+> https://github.com/caoyu48/vue-g6-editor
